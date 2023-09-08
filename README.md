@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Calculadora </h1>
 
 <p align="center">
 NLw e um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -12,14 +12,14 @@ NLw e um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/maykbrito/nlw-setup/raw/main/.github/preview.jpg">
+  <img alt="License" src="https://www.figma.com/file/U8wE0VUpx1XS2pmxCC6ONU/%23boraCodar---Desafio-5-(Community)?type=design&t=4N28wMeZfr9zUJSd-6">
 </p>
 
 <br>
 
 <p align="center">
    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-  <!--colocar uma imagem do app-->
+
 </p>
 
 ## 🚀 Tecnologias

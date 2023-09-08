@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora </h1>
 
 <p align="center">
-NLw e um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB.  <br/>
 
 
 <p align="center">
@@ -12,7 +12,7 @@ NLw e um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de
 </p>
 
 <p align="center">
-  <img alt="License" src="https://www.figma.com/file/U8wE0VUpx1XS2pmxCC6ONU/%23boraCodar---Desafio-5-(Community)?type=design&t=4N28wMeZfr9zUJSd-6">
+  <img alt="License" src="https://github.com/maykbrito/boracodar/raw/main/05/.github/preview.jpg">
 </p>
 
 <br>
@@ -32,13 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os habitos.
+Desafio 05 bora codar foi fazer uma calculadora
 
-- [Visite o projeto online] ()
+- [Visite o projeto online] (lively-starlight-b76f4b.netlify.app)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/plyYG6KR0hIxXulJEHEpnJ/Habits-(e)-(Community)?node-id=75%3A128&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1202607074523509182). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 

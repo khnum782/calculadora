@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desafio 05 bora codar foi fazer uma calculadora
 
-- [Visite o projeto online] (lively-starlight-b76f4b.netlify.app)
+- [Visite o projeto online] (https://lively-starlight-b76f4b.netlify.app)
 
 ## 🔖 Layout
 
